@@ -1,8 +1,8 @@
 import requests
 
 # API ключ и ID вашей поисковой системы (cx)
-api_key = 'AIzaSyAHUc6jZwKirHD2KDBOhhpKT9dQsr8HMXQ'
-cse_id = '1189c16ca9ff3447e'
+api_key = ''
+cse_id = ''
 
 # Функция для поиска
 def google_search(query, num_results=100, start=1):
